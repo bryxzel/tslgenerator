@@ -1,0 +1,40 @@
+# Parameters  SourceFile name:
+      Good file name.			
+      No file with this name.
+	Omitted.  [R] Option:      Option included.		
+      Option not included.		
+      Option not included properly.  [-f | -n] Option:      Option included.			
+      Option not included.	
+	Option not included properly.  Target type:      File.
+	Directory.
+  TargetFile name:
+	Good file name.
+	No file with this name.
+	Omitted.
+  TargetDirectory name:
+	Good directory name.
+	No directory with this name.
+	Omitted.
+			
+
+# Environment  Number of SourceFile:      Empty.			
+      One.			
+      More than one.			
+  Number of files existing in TargetFile:      Empty.			
+      One.      More than one.		
+  Number of files existing in TargetDirectory:      None.
+      One.				
+      More than one.			
+  Number of inaccessible files:      None.
+      One.				
+      More than one.
+  Number of SourceFiles that are directory:
+	None.
+	One.
+	More than one.
+  Number of SourceFiles that ends in a /:
+	None.
+	One.
+	More than one.			
+
+
